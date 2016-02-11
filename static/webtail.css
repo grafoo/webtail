@@ -1,0 +1,9 @@
+#control-box {
+  position:fixed;
+  top: 2%;
+  right:5%;
+}
+
+#log {
+  z-index: -1;
+}
